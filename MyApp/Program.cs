@@ -12,6 +12,7 @@ namespace MyApp
         {
             //bla bla
             //changes
+            //new changes
         }
     }
 }
