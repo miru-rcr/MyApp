@@ -13,6 +13,7 @@ namespace MyApp
             //bla bla
             //changes in firstbranch
             //new changes
+            //another changes
         }
     }
 }
