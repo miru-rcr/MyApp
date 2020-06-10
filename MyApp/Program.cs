@@ -11,6 +11,7 @@ namespace MyApp
         static void Main(string[] args)
         {
             //bla bla
+            //changes in firstbranch
         }
     }
 }
