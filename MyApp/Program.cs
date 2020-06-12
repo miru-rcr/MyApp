@@ -14,6 +14,7 @@ namespace MyApp
             //changes in firstbranch
             //new changes
             //another changes
+            //new commit for third branch
         }
     }
 }
