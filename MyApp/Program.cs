@@ -13,6 +13,7 @@ namespace MyApp
             //bla bla
             //changes
             //new changes
+            //chages for second branch
         }
     }
 }
